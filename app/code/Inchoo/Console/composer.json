@@ -1,0 +1,23 @@
+{
+  "name": "inchoo/console",
+  "description": "Inchoo Console sample command",
+  "type": "magento2-module",
+  "version": "dev-master",
+  "license": [
+    "OSL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Luka Rajcevic",
+      "email": "luka.rajcevic@inchoo.net"
+    }
+  ],
+  "extra": {
+    "map": [
+      [
+        "*",
+        "Inchoo/Console"
+      ]
+    ]
+  }
+}
